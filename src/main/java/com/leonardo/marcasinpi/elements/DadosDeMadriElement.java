@@ -1,6 +1,6 @@
 package com.leonardo.marcasinpi.elements;
 
-import com.example.converterxml.domain.validaxml.DateAdapter;
+import com.leonardo.marcasinpi.Utils.DateAdapter;
 import org.springframework.stereotype.Component;
 
 import javax.xml.bind.annotation.XmlAttribute;
